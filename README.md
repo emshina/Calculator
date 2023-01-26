@@ -4,4 +4,7 @@ It uses a simple tkinter gui which is self explanatory
 
 REQUIREMENTS
 
- Python installed in your device and tkinter
+ Only Python installed in your device and tkinter
+ 
+ 
+ 
